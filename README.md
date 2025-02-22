@@ -2,12 +2,15 @@
 A toolset for reverse engineering and exploit developpement.
 
 ## Usage 
-
 Some install scripts are available in :
 
 1. Linux : [/installers/linux/](/installers/linux/)
 1. Windows : [/installers/windows/](/installers/windows/)
 1. MacOs : [/installers/mac/](/installers/mac/)
+
+Install tools : 
+
+    $ INSTALL_ALL.sh
 
 
 ## Universal
@@ -17,9 +20,11 @@ Some install scripts are available in :
 1. [Python](https://www.python.org/downloads/release/python-3132/)
 1. [Yara](https://github.com/VirusTotal/yara/releases)
 
+## Linux
+
+coming...
+
 ## Windows
-
-
 1. [Cygwin](https://www.mingw-w64.org/downloads/)
 1. [Domato fuzzer](https://github.com/googleprojectzero/domato)
 1. [DrMemory](https://drmemory.org/)
@@ -34,5 +39,8 @@ Some install scripts are available in :
 1. [WinDbg](https://learn.microsoft.com/fr-fr/windows-hardware/drivers/debugger/)
 1. [WinObjEx](https://github.com/hfiref0x/WinObjEx64/releases/tag/v2.0.6)
 
+## Mac os
+
+coming...
 
 

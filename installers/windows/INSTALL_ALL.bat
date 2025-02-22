@@ -1,0 +1,15 @@
+Cygwin-installer.bat
+Domato-installer.bat
+DrMemory-installer.bat
+Ghidra-installer.bat
+NtObjManager-installer.bat
+OleViewDotNet-installer.bat
+ProcessHacker-installer.bat
+Python-installer.bat
+RPCView-installer.bat
+SysInternals-installer.bat
+WDK-installer.bat
+WinAFL-install.bat
+WinDBG-installer.bat
+WinObjEx-installer.bat
+Yara-installer.bat
