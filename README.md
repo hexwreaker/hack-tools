@@ -5,7 +5,7 @@ A toolset for reverse engineering and exploit developpement.
 Some install scripts are available in :
 
 1. Linux : [/installers/linux/](/installers/linux/)
-1. Windows 10 : [/installers/windows/](/installers/windows/)
+1. Windows 10 : [/installers/windows-10/](/installers/windows-10/)
 1. MacOs : [/installers/mac/](/installers/mac/)
 
 Install tools : 
@@ -33,6 +33,7 @@ coming...
 1. [OleViewDotNet](https://www.powershellgallery.com/packages/OleViewDotNet/1.16)
 1. [System Informer / Process Hacker](https://processhacker.sourceforge.io/downloads.php)
 1. [RPCView](https://github.com/silverf0x/RpcView)
+1. [Windows Software Dev Kit](https://developer.microsoft.com/fr-fr/windows/downloads/windows-sdk/)
 1. [SysInternals / Process explorer](https://learn.microsoft.com/fr-fr/sysinternals/downloads/process-explorer)
 1. [Windows Driver Kit](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 1. [WinAFL](https://github.com/googleprojectzero/winafl)

@@ -7,6 +7,7 @@ OleViewDotNet-installer.bat
 ProcessHacker-installer.bat
 Python-installer.bat
 RPCView-installer.bat
+SDK-installer.bat
 SysInternals-installer.bat
 WDK-installer.bat
 WinAFL-install.bat
