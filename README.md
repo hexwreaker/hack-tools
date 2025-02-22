@@ -5,7 +5,7 @@ A toolset for reverse engineering and exploit developpement.
 Some install scripts are available in :
 
 1. Linux : [/installers/linux/](/installers/linux/)
-1. Windows : [/installers/windows/](/installers/windows/)
+1. Windows 10 : [/installers/windows/](/installers/windows/)
 1. MacOs : [/installers/mac/](/installers/mac/)
 
 Install tools : 

@@ -1,5 +1,5 @@
 # INstall Windows Driver Kit
 echo "Installing Windows Driver Kit"
-curl -OL https://download.microsoft.com/download/a/0/4/a04a6ea0-d70d-496f-9949-a73e283be017/KIT_BUNDLE_WDK_MEDIACREATION/wdksetup.exe
+curl -OL https://download.microsoft.com/download/c/f/8/cf80b955-d578-4635-825c-2801911f9d79/wdk/wdksetup.exe
 wdksetup.exe
 
