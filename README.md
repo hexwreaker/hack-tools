@@ -24,7 +24,7 @@ Install tools :
 
 coming...
 
-## Windows
+## Windows 10
 1. [Cygwin](https://www.mingw-w64.org/downloads/)
 1. [Domato fuzzer](https://github.com/googleprojectzero/domato)
 1. [DrMemory](https://drmemory.org/)
